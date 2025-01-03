@@ -1,0 +1,58 @@
+<resources>
+    <!-- Main -->
+    <string name="app_name">ScoreOperator</string>
+
+    <!-- Connection Setting Page -->
+    <string name="ToConnectionSettingButton">Connection Setting</string>
+
+    <string name="GetPermissionButton">Get Permission</string>
+    <string name="GetConnectionToDeviceButton">Connect To Device</string>
+    <string name="tcp_id">ID</string>
+    <string name="tcp_port">PORT</string>
+    <string name="DelConnectionToDeviceButton">Disconnect To Device</string>
+    <string name="SendMessageButton">Send</string>
+    <string name="MessageToSend">Message to send</string>
+    <string name="GetConnectionInfoButton">Get Connection Info</string>
+
+    <!-- Control Console Page -->
+    <!-- Control Console Page - Device Page -->
+    <string name="ToDeviceButton">Device Control</string>
+    <string name="ToControlConsoleButton">Control Console</string>
+
+    <string name="BeepButton">Beep</string>
+    <string name="StopBeepButton">Stop Beeping</string>
+    <string name="BeepFrequency">Frequency</string>
+
+    <string name="RollButton">Roll</string>
+    <string name="RollSpeed">Speed</string>
+    <string name="StopRollButton">Stop Rolling</string>
+
+    <string name="LightButton">Light</string>
+    <string name="StopLightButton">Stop Lighting</string>
+
+    <string name="ShowingButton">Show Text</string>
+    <string name="TextToBeShownOnTheScreen">Text to be shown on the screen</string>
+
+    <!-- Control Console Page - Data Page -->
+    <string name="ToDataButton">Data Control</string>
+    <string name="AddButton">Add</string>
+    <string name="RemoveButton">Rmv</string>
+    <string name="Step">Step</string>
+
+    <string name="ResetButton">Reset Score</string>
+    <string name="FrequencyButton">Fqc</string>
+    <string name="Frequency">Frequency</string>
+    <string name="SwitchLedModeButton">Switch Led Mode</string>
+    <string name="SwitchFace">Switch</string>
+    <string name="Range">Range</string>
+    <string name="RangeFrom">From</string>
+    <string name="RangeTo">To</string>
+    <string name="Name">Name</string>
+    <string name="PunishButton">Punish</string>
+    <string name="UnpunishButton">Unpunish</string>
+
+    <string name="ContestBeginButton">Begin Contest</string>
+    <string name="ContestFinishedButton">Finish Contest</string>
+    <string name="ContestLong">Contest Long(min)</string>
+    <string name="SetContestLongButton">Set Contest Long</string>
+</resources>
